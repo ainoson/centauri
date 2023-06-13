@@ -1876,6 +1876,32 @@ section.popup-builder .modal.mbr-popup button {
 .cid-tFJCV4fkMs .mbr-section-btn {
   color: #86ac97;
 }
+.cid-tH4GnQpnYM {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tH4GnQpnYM .mbr-section-subtitle {
+  margin-bottom: .75rem;
+  line-height: 1;
+  color: #86ac97;
+  text-align: left;
+}
+.cid-tH4GnQpnYM .mbr-text {
+  margin-top: 1.5rem;
+  letter-spacing: -0.025rem;
+}
+@media (max-width: 767px) {
+  .cid-tH4GnQpnYM .mbr-section-subtitle {
+    margin-bottom: .25rem;
+  }
+  .cid-tH4GnQpnYM .mbr-text {
+    margin-top: .75rem;
+  }
+}
+.cid-tH4GnQpnYM .mbr-section-title {
+  text-align: left;
+}
 .cid-tyKJAYqbiG {
   padding-top: 1rem;
   padding-bottom: 0rem;
